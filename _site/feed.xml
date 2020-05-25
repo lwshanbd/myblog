@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baodi Blog</title>
+    <description></description>
+    <link>http://baodi.run/</link>
+    <atom:link href="http://baodi.run/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 25 May 2020 16:31:18 +0800</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 16:31:18 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>This is the first one.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“好久不见。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;最初想搭一个自己的博客，大约是在大二上学期。那时候看着&lt;a href=&quot;http://cuichen.cc&quot;&gt;教授&lt;/a&gt;的博客觉得十分新鲜，也想搭一个类似的东西。&lt;/p&gt;
+
+&lt;p&gt;无奈当时技术不够（虽然现在也没有多少技术），Github Pages做出来的效果也十分有限。
+再加上国内网络对于github连接的种种不友好，最终作罢。&lt;/p&gt;
+
+&lt;p&gt;今天，终于能实现当年那个小小的愿望了。这次从阿里云买了ECS和域名，并且经过了管局的审核，正式成为了社会主义新青年的合法blog。&lt;/p&gt;
+
+&lt;p&gt;整个网页的模板选取了Facebook工程师，知名知乎大V&lt;a href=&quot;http://huangxuan.me&quot;&gt;黄玄&lt;/a&gt;老师的板子，由于我辣鸡的前端技术，也没再过多的添加东西Orz&lt;/p&gt;
+
+&lt;p&gt;以后，宝迪同学的碎碎念就要发在这里了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;说说最近&quot;&gt;说说最近&lt;/h2&gt;
+
+&lt;p&gt;最近其实陷入了特别大的迷茫（？），其实具体体现就是不知道做些什么。并行计算学的乱七八糟，组合优化掌握的也十分有限。受限于疫情，TOEFL和GRE都没法正常考，可以说很难受了。GRE单词最近应该得开始过第二遍了。以及，练口语，练输出。&lt;/p&gt;
+
+&lt;p&gt;过几天就要考试周了，再过几天就要去广州实习了，内心还是挺激动的，激动之余还是挺紧张的23333。然后mentor让了解的东西也没有看（逃&lt;/p&gt;
+
+&lt;p&gt;最近两周，TA工作可以说才完全开展——开始查实验了。看着学弟学妹们一份比一份卷的实验报告，真的可以说是&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;长江后浪推前浪，后浪把前浪拍在沙滩上&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;之前我们写十几页的实验报告，他们卷到几十页的大有人在，可以说是十分优秀了。但是……对于作为助教的我，可以说是十分不友好了。&lt;/p&gt;
+
+&lt;p&gt;Whatever，希望学弟学妹们能好好做实验，更希望自己能继续努力取得更优秀的成绩（逃&lt;/p&gt;
+
+&lt;h2 id=&quot;end&quot;&gt;End&lt;/h2&gt;
+
+&lt;p&gt;第一篇碎碎念，写的乱七八糟的……就这样吧，希望大家不要笑话我&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 May 2020 20:00:00 +0800</pubDate>
+        <link>http://baodi.run/2020/05/15/seeyou/</link>
+        <guid isPermaLink="true">http://baodi.run/2020/05/15/seeyou/</guid>
+        
+        <category>碎碎念</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
